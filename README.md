@@ -5,6 +5,6 @@
 
 # Overview
 Features of this project:
-- Draw text.
-- Drag text over image.
-- Generate a bitmap that contains text and image and paste it to Result Image.
+- Draw text on Image
+- Drag text on Image.
+- Generate a bitmap that contains text and Image and paste it to Result Image.
