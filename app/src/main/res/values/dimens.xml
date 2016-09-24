@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="text_size">30sp</dimen>
+</resources>
